@@ -1,0 +1,26 @@
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio / Rider / VS Code cache
+*.VC.db
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+.vscode/ipch/
+
+# Build output
+Build/*
+
+# Keep useful Windows icon files if created
+!Build/Windows/
+!Build/Windows/*.ico
+
+# OS files
+.DS_Store
+Thumbs.db
